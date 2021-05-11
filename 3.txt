@@ -1,6 +1,5 @@
 ## Algoritmos
 
-
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
 Parar o carro, puxe o freio de mão.
