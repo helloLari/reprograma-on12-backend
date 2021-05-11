@@ -1,0 +1,19 @@
+## Algoritmos
+
+
+3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
+
+Parar o carro, puxe o freio de mão.
+Tirar o cinto e sair do carro
+Abrir o porta malas e pegar o triângulo 
+Sinalizar a via com o triângulo
+Pegar o macaco, chave de roda e Retirar o estepe (local indicado). 
+Colocar o estepe embaixo do carro e próximo ao pneu a ser trocado. 
+Afrouxar um pouco os parafusos, Encaixar o macaco debaixo do carro e suspende-lo
+Desenroscar os parafusos da roda e retira-la
+Colocar o estepe
+Enroscar os parafusos na roda
+Abaixar o carro utilizando o macaco, usando a chave de roda finalizar todo o processo apertando bem os parafusos. 
+Guardar o macaco, chave de roda, triângulo e o pneu furado, trancar o porta malas. 
+Voltar para o carro colocar o cinto, ligar o carro e prosseguir viagem.
+
