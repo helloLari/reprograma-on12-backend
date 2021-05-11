@@ -1,0 +1,16 @@
+## Algoritmos
+
+4.Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
+
+Ir ao caixa eletrônico
+Inserir o cartão no local indicado do caixa eletrônico
+inserir a senha 
+Se senha incorreta, remova o cartão e repita os passos iniciais
+Se não, prossiga
+selecionar a operação de debito 
+Insira o valor que irá debitar
+Insira a senha
+Confirme
+Pegar impressão de comprovante
+Finalizar atendimento
+Sair do caixa eletrônico.
