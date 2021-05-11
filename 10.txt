@@ -1,0 +1,9 @@
+## Algoritmos
+
+10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+
+Digite o salário, e verifica que 
+Se salário sem aumento for <= a R$500.
+Então terá aumento de 20%. 
+Se salário sem aumento for > R$ 500. 
+Então seu aumento será de 10%.
