@@ -1,0 +1,9 @@
+## Algoritmos
+
+_Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando estrutura de narrativa, fluxograma ou pseudocódigo. Consulte a professora!_
+
+1. Faça um algoritmo que mostre o passo a passo de uma troca de lâmpada queimada.
+
+
+
+- Ligar o interruptor, se a lâmpada acender não há troca. Se não, desligar o interruptor, posicionar a escada no lugar e subir na escada, tirar a lâmpada queimada e descer com ela, pega a lâmpada nova, sobe a escada e coloca a lâmpada nova. Desce da escada e liga o interruptor para confirmar que a lâmpada está funcionando e por fim  guarda a escada.
