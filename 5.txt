@@ -1,0 +1,14 @@
+## Algoritmos
+
+5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
+
+
+Pegar uma quantidade razoável de provas
+Pegue uma caneta
+Pegue uma prova
+Leia a primeira questão
+Se correta, marcar V
+Se não, marcar X
+Repetir até marcar todas as 5 questões
+Colocar em uma pilha de provas para entrega
+Repetir até corrigir todas as provas
