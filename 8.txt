@@ -1,0 +1,10 @@
+## Algoritmos
+
+8. Faça um algoritmo que descubra se um número é par ou ímpar.
+
+Digite um número
+Leia o número
+Se o resto da divisão do número por 2 = 0
+Então o número é par
+Senão o número é ímpar
+Informar o resultado
