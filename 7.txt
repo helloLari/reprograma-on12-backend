@@ -1,0 +1,12 @@
+## Algoritmos
+
+7. Faça um algoritmo que some três números.
+
+Digite o primeiro numero
+leia o primeiro numero
+Digite o segundo numero 
+leia o segundo numero 
+Digite o terceiro numero 
+leia o terceiro numero. 
+A soma do primeiro numero + segundo numero + terceiro numero é: 
+Mostar a soma dos números.
