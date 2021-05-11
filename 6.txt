@@ -1,0 +1,18 @@
+## Algoritmos
+
+6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
+
+Começa com quem vai dar a ordem e quem receberá
+Se dará a ordem, Dizer morto ou vivo
+Se dizer morto, quem recebe a ordem tem que abaixar
+Se não eliminado
+Se dizer vivo, quem recebe a ordem tem que ficar de pé
+Se não eliminado
+Se receberá a ordem
+Esperar ouvir VIVO ou MORTO 
+Se ouvir morto
+tem que abaixar
+se não eliminado
+Se ouvir vivo tem que ficar de pé
+se não eliminado
+Repetir até restar apenas 1 pessoa.
