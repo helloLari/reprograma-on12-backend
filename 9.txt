@@ -1,0 +1,13 @@
+## Algoritmos
+
+9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+
+Escreva nota 1
+Leia nota 1  
+Escreva nota 2
+Leia nota 2
+Calcular a média somando nota1 + nota2 /2 
+Se media for >= 7 
+Escreva Aluno aprovado. 
+Se não aluno Reprovado.
+
