@@ -1,0 +1,17 @@
+## Algoritmos
+
+2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
+
+Coloque detergente na parte amarela da bucha de lavar pratos
+Pegue o prato que será lavado
+Ligue a torneira
+Molhe o prato
+Desligue a torneira
+Pegue a bucha com detergente
+Passe sobre o prato
+Ligue a torneira
+Molhe o prato novamente até sair toda espuma
+Desligue a torneira
+Pegue um pano de pratos e enxugue o prato
+Guarde o prato
+Repita se houver outros pratos
